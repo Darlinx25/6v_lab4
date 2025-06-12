@@ -15,7 +15,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbd173a2-b848-4004-9c7d-fcb8c2a335d9" name="Changes" comment="" />
+    <list default="true" id="dbd173a2-b848-4004-9c7d-fcb8c2a335d9" name="Changes" comment="Creado carpeta DT y archivo DTDate">
+      <change afterPath="$PROJECT_DIR$/Logica/Controller/Controller.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dominio/dominio.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Logica/Dominio/dominio.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +72,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Chorizo-Cosmico\CLionProjects\6v_lab4\Logica" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="dbd173a2-b848-4004-9c7d-fcb8c2a335d9" name="Changes" comment="" />
@@ -75,11 +84,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1749754979879</updated>
-      <workItem from="1749754987481" duration="991000" />
+      <workItem from="1749754987481" duration="1643000" />
     </task>
+    <task id="LOCAL-00001" summary="Creado carpeta DT y archivo DTDate">
+      <option name="closed" value="true" />
+      <created>1749756364880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749756364880</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creado carpeta DT y archivo DTDate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creado carpeta DT y archivo DTDate" />
   </component>
 </project>
